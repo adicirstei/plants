@@ -1,0 +1,23 @@
+{
+  "name": "plants",
+  "version": "0.0.1",
+  "description": "water the plants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adicirstei/plants.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi"
+  ],
+  "author": "Adrian Cirstei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adicirstei/plants/issues"
+  },
+  "homepage": "https://github.com/adicirstei/plants#readme"
+}
