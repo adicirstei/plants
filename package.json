@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/adicirstei/plants/issues"
   },
-  "homepage": "https://github.com/adicirstei/plants#readme"
+  "homepage": "https://github.com/adicirstei/plants#readme",
+  "dependencies": {
+    "wiring-pi" "*"
+  }
 }
